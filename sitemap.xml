@@ -2,17 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>/post-sitemap.xml</loc>
+        <loc>http://blog.chaytech.cn/post-sitemap.xml</loc>
         <lastmod>2018-07-14T09:04:02.421Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>/page-sitemap.xml</loc>
+        <loc>http://blog.chaytech.cn/page-sitemap.xml</loc>
         <lastmod>2018-07-14T09:53:59.743Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>/tag-sitemap.xml</loc>
+        <loc>http://blog.chaytech.cn/tag-sitemap.xml</loc>
         <lastmod>2018-07-14T09:04:02.421Z</lastmod>
     </sitemap>
 
